@@ -1,6 +1,10 @@
 # circleillusion
 
-A macOS program to demonstrate and play with an optical illusion of two rotating circles that always seem to approach
+A macOS program to demonstrate and play with an optical illusion of two rotating circles that always seem to move away from each other.
+
+Here is a (sloppy) version of what the running app looks like:
+
+![](images/repel.gif)
 
 The code for drawing the illusion is all in CIRIllusionView.m .
 
